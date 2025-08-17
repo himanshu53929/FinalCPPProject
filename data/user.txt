@@ -1,8 +1,5 @@
 2,2,admin
 Himanshu,himanshu,user
 Janak Bhatta,janke,admin,
-Ishan,iahs,ooeo,
-Ishan3,iahs,ooeo,
-Ishan34,iahs,ooeo,
 Himanshu Chand Thakuri,himanshu123,admin,
 Pokemon,pikachu,Something,
