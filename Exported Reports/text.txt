@@ -1,6 +1,0 @@
-Accouting report
-=========================
-Proit and Loss 
-Income rs.61720
-Expense rs.1.33588e+07
-Net: Loss1.32971e+07

@@ -1,6 +1,0 @@
-Accouting report
-=========================
-Proit and Loss 
-Income rs.0
-Expense rs.0
-Net: Profit0

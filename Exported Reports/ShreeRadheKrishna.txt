@@ -1,6 +1,0 @@
-Accounting Report
-=========================
-Profit and Loss 
-Income Rs.92580
-Expense Rs.3.37167e+06
-Net Loss Rs.3.27909e+06

@@ -3,3 +3,4 @@ Himanshu,himanshu,user
 Janak Bhatta,janke,admin,
 Himanshu Chand Thakuri,himanshu123,admin,
 Pokemon,pikachu,Something,
+Krishna,Radha,admin,
